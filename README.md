@@ -31,6 +31,7 @@
 
 
 ## SQL scripts to create the database 
+![Capture](https://user-images.githubusercontent.com/77564032/134655269-0905a3cd-0ab7-4128-ad48-33e80735577f.PNG)
 
 CREATE DATABASE election
     WITH 
